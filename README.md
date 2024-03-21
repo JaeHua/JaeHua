@@ -19,5 +19,5 @@
 
 ------------------
 <h3>The condition of CSDN .</h3>
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Small notes;&font=Roboto" />
+
 ![csdn](https://stats.justsong.cn/api/csdn?id=m0_73421035&theme=radical)
