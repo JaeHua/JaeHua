@@ -9,6 +9,7 @@
 - ✍️ [Blogger](http://www.xiaocr.fun)
 - 📫 How to reach me: 2195821921@qq.com
 - ⚡ Fun fact: 🖥 & 🏀
+----------------------
 
 ![decription](https://img.shields.io/badge/Language-Python-green)![decription](https://img.shields.io/badge/Language-C++-red)![decription](https://img.shields.io/badge/Language-Rust-yellow)![decription](https://img.shields.io/badge/Language-C-green)
 <h3>The basica condition of my github .</h3>
@@ -18,4 +19,5 @@
 
 ------------------
 <h3>The condition of CSDN .</h3>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Small notes;&font=Roboto" />
 ![csdn](https://stats.justsong.cn/api/csdn?id=m0_73421035&theme=radical)
