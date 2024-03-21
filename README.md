@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently a Stu in WHU 
 - 🌱 I’m currently learning CS
 - 💬 Ask me about here 2195821921@qq.com
 - 📫 How to reach me: 2195821921@qq.com
-- ⚡ Fun fact: code
+- ⚡ Fun fact: 🖥 & 🏀
 
 <img align="center"  src="https://github-readme-stats.vercel.app/api?username=JaeHua&show_icons=true&theme=radical"/><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeHua&theme=radical&layout=compact"  />
 
