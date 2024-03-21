@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 <img align="center"  src="https://github-readme-stats.vercel.app/api?username=JaeHua&show_icons=true&theme=radical"/><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeHua&theme=radical&layout=compact"  />
 
-![csdn](https://stats.justsong.cn/api/csdn?id=Cr不是铬&theme=radical)
+![csdn](https://stats.justsong.cn/api/csdn?id=m0_73421035&theme=radical)
