@@ -10,7 +10,7 @@
 - 📫 How to reach me: 2195821921@qq.com
 - ⚡ Fun fact: 🖥 & 🏀
 
-![decription](https://img.shields.io/badge/Language-Python-green)![decription](https://img.shields.io/badge/Language-C++-green)
+![decription](https://img.shields.io/badge/Language-Python-green)![decription](https://img.shields.io/badge/Language-C++-red)![decription](https://img.shields.io/badge/Language-Rust-yellow)
 <h3>The basica condition of my github .</h3>
 
 
