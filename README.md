@@ -10,11 +10,12 @@
 - 📫 How to reach me: 2195821921@qq.com
 - ⚡ Fun fact: 🖥 & 🏀
 
-![decription](https://img.shields.io/badge/Language-Python-green)![decription](https://img.shields.io/badge/Language-C++-red)![decription](https://img.shields.io/badge/Language-Rust-yellow)
+![decription](https://img.shields.io/badge/Language-Python-green)![decription](https://img.shields.io/badge/Language-C++-red)![decription](https://img.shields.io/badge/Language-Rust-yellow)![decription](https://img.shields.io/badge/Language-C-green)
 <h3>The basica condition of my github .</h3>
 
 
 <img align="center"  src="https://github-readme-stats.vercel.app/api?username=JaeHua&show_icons=true&theme=radical"/><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeHua&theme=radical&layout=compact"  />
 
--
+------------------
+<h3>The condition of CSDN .</h3>
 ![csdn](https://stats.justsong.cn/api/csdn?id=m0_73421035&theme=radical)
