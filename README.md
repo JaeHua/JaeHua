@@ -21,6 +21,8 @@
 <h3>The condition of CSDN ✍.</h3>
 small notes ...
 
+- 🖋 [Here](http://www.xiaocr.fun)
+
 ![csdn](https://stats.justsong.cn/api/csdn?id=m0_73421035&theme=radical)
 
 
