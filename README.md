@@ -35,6 +35,6 @@ small notes ...
 ![image](https://github.com/JaeHua/JaeHua/assets/126366914/bf54253b-05c5-4dc6-844e-d18a71703fa2)
 
 ----
-
+<h3>Contributions</h3>
 
 ![Contributions in 3D](/profile-3d-contrib/profile-night-rainbow.svg)
