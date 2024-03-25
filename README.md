@@ -5,7 +5,7 @@
 
 - 🍻 Junior at 🇨🇳 [WHU](https://www.whu.edu.cn), _BSc in Computer Science_
 - ⚡ C++ / Python /Rust.
-- 🖋 Writer at [sspai](https://sspai.com/u/aw0luepf/posts)
+- 🖋 Writer at [website](https://www.xiaocr.fun)
 - ✍️ [Blogger](http://www.xiaocr.fun)
 - 📫 How to reach me: 2195821921@qq.com
 - ⚡ Fun fact: 🖥 & 🏀
