@@ -31,7 +31,8 @@ small notes ...
 
 [here](http://www.xiaocr.fun)
 
-![image](https://github.com/JaeHua/JaeHua/assets/126366914/c2f6ec34-019b-4a27-bf2a-761cd3219f02)
+
+![image](https://github.com/JaeHua/JaeHua/assets/126366914/bf54253b-05c5-4dc6-844e-d18a71703fa2)
 
 ----
 
