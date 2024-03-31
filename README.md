@@ -11,7 +11,7 @@
 - ⚡ Fun fact: 🖥 & 🏀
 ----------------------
 
-![decription](https://img.shields.io/badge/Language-Python-green)![decription](https://img.shields.io/badge/Language-C++-red)![decription](https://img.shields.io/badge/Language-Rust-yellow)![decription](https://img.shields.io/badge/Language-C-green)![decription](https://img.shields.io/badge/Language-Go-pink)
+![decription](https://img.shields.io/badge/Language-Python-green)![decription](https://img.shields.io/badge/Language-C++-red)![decription](https://img.shields.io/badge/Language-Rust-yellow)![decription](https://img.shields.io/badge/Language-C-purple)![decription](https://img.shields.io/badge/Language-Go-pink)
 <h3>The basica decription of my github 🛠.</h3>
 
 
