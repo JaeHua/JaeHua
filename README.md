@@ -31,6 +31,7 @@ small notes ...
 
 [here](http://www.xiaocr.fun)
 
+![decription](https://stats.justsong.cn/api/website/?url=http://www.xiaocr.fun/&style=flat&logo=github)
 
 ![image](https://github.com/JaeHua/JaeHua/assets/126366914/bf54253b-05c5-4dc6-844e-d18a71703fa2)
 
