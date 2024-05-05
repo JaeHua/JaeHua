@@ -24,7 +24,7 @@ small notes ...
 
 - 🖋 [Here](https://blog.csdn.net/m0_73421035?type=blog)
 
-![csdn](https://stats.justsong.cn/api/csdn?id=m0_73421035&theme=radical)
+![csdn](https://stats.justsong.cn/api/csdn?id=m0_73421035)
 
 ----
 <h3>My Webside</h3>
