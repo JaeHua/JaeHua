@@ -31,9 +31,10 @@ small notes ...
 
 [here](http://www.jaehua.top)
 
-![decription](https://stats.justsong.cn/api/website/?url=http://www.xiaocr.fun/&style=flat&logo=github)
+![decription](https://stats.justsong.cn/api/website/?url=http://www.jaehua.top/&style=flat&logo=github)
 
-![image](https://github.com/JaeHua/JaeHua/assets/126366914/bf54253b-05c5-4dc6-844e-d18a71703fa2)
+![image](https://github.com/user-attachments/assets/28b3240e-2723-4958-9660-0ff88e16fe0c)
+
 
 ----
 <h3>Contributions</h3>
