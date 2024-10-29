@@ -29,7 +29,7 @@ small notes ...
 ----
 <h3>My Webside</h3>
 
-[here](https://blog.www.jaehua.top)
+[here](https://www.blog.jaehua.top)
 
 ![decription](https://stats.justsong.cn/api/website/?url=https://www.blog.jaehua.top/&style=flat&logo=github)
 
