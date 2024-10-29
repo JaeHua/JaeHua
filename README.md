@@ -5,9 +5,9 @@
 
 - 🍻 Junior at 🇨🇳 [WHU](https://www.whu.edu.cn), _BSc in Computer Science_
 - ⚡ C++ / Python /Go.
-- 🖋 Writer at [website](https://www.xiaocr.fun)
+- 🖋 Writer at [website](https://blog.jaehua.top)
 - ✍️ [Blogger](http://www.xiaocr.fun)
-- 📫 How to reach me: 2195821921@qq.com
+- 📫 How to reach me: jaehua@whu.edu.cn
 - ⚡ Fun fact: 🖥 & 🏀
 ----------------------
 
