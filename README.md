@@ -29,9 +29,9 @@ small notes ...
 ----
 <h3>My Webside</h3>
 
-[here](https://www.blog.jaehua.top)
+[here](https://blog.jaehua.top/)
 
-![decription](https://stats.justsong.cn/api/website/?url=https://www.blog.jaehua.top/&style=flat&logo=github)
+![decription](https://stats.justsong.cn/api/website/?url=https://blog.jaehua.top/&style=flat&logo=github)
 
 ![image](https://github.com/user-attachments/assets/28b3240e-2723-4958-9660-0ff88e16fe0c)
 
