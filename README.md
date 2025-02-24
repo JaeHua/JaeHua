@@ -4,7 +4,7 @@
 [![RSS](https://img.shields.io/badge/dynamic/json?logo=rss&logoColor=white&label=RSS&labelColor=95B8D1&color=95B8D1&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%257Cinoreader%257CfeedsPub%26queryKey%3Dhttps://haysc.tech/feed.xml&style=flat-square)](http://www.xiaocr.fun)
 
 - 🍻 Junior at 🇨🇳 [WHU](https://www.whu.edu.cn), _BSc in Computer Science_
-- ⚡ C++ / Python /Go.
+- ⚡ C++ / Python /Go/Java.
 - 🖋 Writer at [website](https://blog.jaehua.top)
 - ✍️ [Blogger](http://www.xiaocr.fun)
 - 📫 How to reach me: jaehua@whu.edu.cn
