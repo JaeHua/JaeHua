@@ -10,6 +10,7 @@
 - 📫 How to reach me: jaehua@whu.edu.cn
 - ⚡ Fun fact: 🖥 & 🏀 & 🎱
 ----------------------
+<div align="center">
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Horizons+shrink+when+we+stop+asking+why+.)
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div>
@@ -19,7 +20,7 @@
 
 ![decription](https://img.shields.io/badge/Language-Python-green)![decription](https://img.shields.io/badge/Language-C++-red)![decription](https://img.shields.io/badge/Language-C-purple)![decription](https://img.shields.io/badge/Language-Go-pink) ![decription](https://img.shields.io/badge/Language-Java-green) 
 <h3>The basica decription of my github 🛠.</h3>
-
+</div>
 
 <img align="center"  src="https://github-readme-stats.vercel.app/api?username=JaeHua&show_icons=true&theme=radical"/><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeHua&theme=radical&layout=compact"  />
 
