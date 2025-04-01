@@ -11,6 +11,7 @@
 - ⚡ Fun fact: 🖥 & 🏀 & 🎱
 ----------------------
 <div align="center">
+  
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Horizons+shrink+when+we+stop+asking+why+.)
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div>
