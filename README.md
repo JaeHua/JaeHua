@@ -11,6 +11,11 @@
 - ⚡ Fun fact: 🖥 & 🏀 & 🎱
 ----------------------
 
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div>
+
+
+
+
 ![decription](https://img.shields.io/badge/Language-Python-green)![decription](https://img.shields.io/badge/Language-C++-red)![decription](https://img.shields.io/badge/Language-Rust-yellow)![decription](https://img.shields.io/badge/Language-C-purple)![decription](https://img.shields.io/badge/Language-Go-pink) ![decription](https://img.shields.io/badge/Language-Java-green) 
 <h3>The basica decription of my github 🛠.</h3>
 
