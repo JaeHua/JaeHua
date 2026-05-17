@@ -34,17 +34,6 @@ small notes ...
 
 ![csdn](https://stats.justsong.cn/api/csdn?id=m0_73421035&theme=radical)
 
-----
-<h3>My Webside</h3>
-
-[here](https://blog.jaehua.top/)
-
-![decription](https://stats.justsong.cn/api/website/?url=https://blog.jaehua.top/&style=flat&logo=github)
-
-![image](https://github.com/user-attachments/assets/28b3240e-2723-4958-9660-0ff88e16fe0c)
-
-
-----
 <h3>Contributions</h3>
 
 ![Contributions in 3D](/profile-3d-contrib/profile-night-rainbow.svg)
